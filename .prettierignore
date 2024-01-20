@@ -1,0 +1,5 @@
+# Ignore artifacts:
+pnpm-lock.yaml
+
+# .gitignore is always extended, no need to specify more
+

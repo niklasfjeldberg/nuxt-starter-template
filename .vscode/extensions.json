@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "vue.vscode-typescript-vue-plugin",
+    "vue.volar",
+    "rangav.vscode-thunder-client",
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+    "formulahendry.auto-close-tag",
+    "editorconfig.editorconfig"
+  ]
+}

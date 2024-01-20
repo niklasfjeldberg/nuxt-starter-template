@@ -32,8 +32,8 @@ jobs:
       - name: 📦 Install dependencies
         run: pnpm install
 
-      - name: 📦 Prepare
-        run: pnpm prep
+      - name: 📦 Postinstall
+        run: pnpm postinstall
 
       - name: 🧪 Test & coverage
         run: pnpm run test:coverage
